@@ -1,1 +1,1 @@
- <img src="https://media.giphy.com/media/your-gif-url/giphy.gif" width="700" height="300"/>
+ <img src="https://media.giphy.com/media/your-gif-url/giphy.gif" width="1000" height="300"/>
