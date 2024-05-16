@@ -1,0 +1,37 @@
+/* style.css */
+
+.typed-text {
+    display: inline-block;
+    animation: typing 3s steps(12) forwards;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 2px solid #000;
+    font-size: 24px;
+  }
+  
+  .cursor {
+    display: inline-block;
+    width: 8px;
+    height: 20px;
+    background-color: #000;
+    animation: blink 0.7s infinite;
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: auto;
+    }
+  }
+  
+  @keyframes blink {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+  }
+  
