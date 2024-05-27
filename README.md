@@ -1,6 +1,6 @@
 # Yokoso ! 👋
 
-<a href="https://freeimage.host/i/JLgqvxn"><img src="https://iili.io/JLgqvxn.md.png" alt="JLgqvxn.md.png" border="0"></a>
+<a href="https://freeimage.host/i/JLgqvxn"><img src="https://iili.io/JLgqvxn.md.png" alt="JLgqvxn.md.png" border="0" width="750px"></a>
 
 ## Tentang Saya
 
@@ -23,4 +23,4 @@ Terima kasih sudah mengunjungi profil awak ⭐ !
 
 ## Bye 👋
 
-<a href="https://freeimage.host/i/JLgtVgs"><img src="https://iili.io/JLgtVgs.md.png" alt="JLgtVgs.md.png" border="0"></a>
+<a href="https://freeimage.host/i/JLgtVgs"><img src="https://iili.io/JLgtVgs.md.png" alt="JLgtVgs.md.png" border="0" width="750px"></a>
