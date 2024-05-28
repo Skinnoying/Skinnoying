@@ -4,7 +4,7 @@
 
 ## Tentang Saya
 
-- 🌱 Sedang belajar : [Vue.js](https://vuejs.org/), [Node.js](https://nodejs.org/)
+- 🌱 Goals : UI / UX Designer
 - 📫 Gmail Awak : [boolayam70@gmail.com](mailto:boolayam70@gmail.com)
 - ⚡ Fun fact : Awak suka ngoding sambil nonton cp 😹.
 
