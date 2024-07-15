@@ -6,7 +6,7 @@
 
  🌱 Goals : UI / UX Designer <br>
  📫 Gmail Awak : [boolayam70@gmail.com](mailto:boolayam70@gmail.com) <br>
- ⚡ Fun fact : Awak suka ngoding sambil nonton cp 😹.
+ ⚡ Fun fact : Skibidi Toilet Rizz Ohio 😹.
 
 ## Keahlian
 
