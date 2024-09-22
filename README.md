@@ -1,26 +1,16 @@
-# Yokoso ! 👋
+# 💫 About Me:
+I'm an scum guy without experience. <br>
+too many losing sperm, not heroines.
 
-<a href="https://freeimage.host/i/JLgqvxn"><img src="https://iili.io/JLgqvxn.md.png" alt="JLgqvxn.md.png" border="0" width="750px"></a>
 
-## Tentang Saya
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raiinime) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/p3dokers) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/skinnoying) 
 
- 🌱 Goals : UI / UX Designer <br>
- 📫 Gmail Awak : [boolayam70@gmail.com](mailto:boolayam70@gmail.com) <br>
- ⚡ Fun fact : Skibidi Toilet Rizz Ohio 😹.
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Skinnoying&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Skinnoying&theme=dark&hide_border=false)<br/>
 
-## Keahlian
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## Kontak
-
-<a href="https://instagram.com/raiinime"><img src="https://www.masterweb.com/wp-content/uploads/2019/05/logo-ig.png" width="100px" height="50px"> <a href="https://www.facebook.com/people/Kiddo-Pedopil/pfbid02g7mR2vHRf3QY9zfiXucgYPfkLzLnd4FYzBWAcKRG2RQfwxbYDTYy3Veb7qKwnrS9l"><img src="https://buatlogoonline.com/wp-content/uploads/2022/10/Logo-FB-Hitam-Putih.jpg" width="60px" height="50px">
-  
-Terima kasih sudah mengunjungi profil awak ⭐ !
-
-## Bye 👋
-
-<a href="https://freeimage.host/i/JLgtVgs"><img src="https://iili.io/JLgtVgs.md.png" alt="JLgtVgs.md.png" border="0" width="750px"></a>
+---
+[![](https://visitcount.itsvg.in/api?id=Skinnoying&icon=5&color=1)](https://visitcount.itsvg.in)
