@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=500&lines=The+state+Tsun+Zu+left+me+in+:;Giving+up+is+gay+%F0%9F%98%88." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=500&lines=If+it+ain't+rice,;It+ain't+nice." alt="Typing SVG" />
 </p>
 
 <h1 align="center">🧠 Skinnoying: Debugging Life One Error at a Time</h1>
