@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=800&color=39FF14&background=000000&center=true&vCenter=true&width=760&lines=+root@skinnoying:;print('Every+CS+Student');print('Need+Their+CSMATE+too)" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=800&color=39FF14&background=000000&center=true&vCenter=true&width=760&lines=+root@skinnoying:;print('Every+CS+Student');print('Need+Their+CSMATE+too')" alt="Terminal Typing" />
 </p>
 
 <h1 align="center">🧠 Skinnoying — Debugging Life, One Error at a Time</h1>
