@@ -1,56 +1,78 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=800&color=39FF14&background=000000&center=true&vCenter=true&width=760&lines=+root@skinnoying:;print('Every+CS+Student');print('Need+Their+CSMATE+too')" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=it's+not+I+found+a+rose+among+the+thorns..;it's+I+found+a+bug+among+the+codes..." alt="Boot Sequence">
 </p>
 
-<h1 align="center">🧠 Skinnoying — Debugging Life, One Error at a Time</h1>
-<p align="center"><sub><i>Digital hermit • automating chaos • surviving the compiler of existence</i></sub></p>
-
----
-
-## 🔥 Quick vibe
-> <code>status</code>: <span style="color:#39FF14"><b>ACTIVE</b></span> — keyboard noise detected.  
-> <code>motto</code>: `code, break, fix, repeat.`
-
----
-
-## 💫 About Me
-- 🤡 Professional overthinker, part-time keyboard masher.  
-- 🧑‍💻 I write scripts that barely work (maybe). 
-- 💥 Living proof you can copy-paste your way into tech.  
-- 👁 Currently lurking in cybersecurity, scripting, and OSINT.
-
----
-
-## 🌐 My Internet Hideouts
 <p align="center">
-  <a href="https://instagram.com/raiinime" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/p3dokers" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
-  <a href="https://codepen.io/skinnoying" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
+  <i>Digital hermit • automating chaos • surviving the compiler of existence</i>
 </p>
 
 ---
 
-## 💻 Tech Stack (tools I pretend to know)
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+
+### ⚡ STATUS PANEL
+```
+[ SYSTEM STATUS ]
+──────────────────────────────────────────────
+> STATUS  : ACTIVE  ⚡
+> MODE    : CYBER TERMINAL
+> MOTTO   : "code, break, fix, repeat."
+──────────────────────────────────────────────
+```
 
 ---
 
-## 🛠 Reminder
-```bash
+### 💫 ABOUT ME
+```
+[ root@skinnoying:~ ]# whoami
+🤡 Professional overthinker, part-time keyboard masher
+🧑‍💻 Writes scripts that barely work (maybe)
+💥 Living proof you can copy-paste your way into tech
+👁 Currently lurking in cybersecurity, scripting, and OSINT
+```
+
+---
+
+### 🌐 INTERNET HIDEOUTS
+```
+[ /etc/socials.conf ]
+──────────────────────────────────────────────
+Instagram  → https://instagram.com/raiinime
+X (Twitter) → https://x.com/p3dokers
+Codepen    → https://codepen.io/skinnoying
+──────────────────────────────────────────────
+```
+
+---
+
+### 💻 TECH STACK
+```
+[ /usr/bin/skills ]
+──────────────────────────────────────────────
+> Python       
+> MySQL         
+> Bash/Shell    
+> Git
+> Figma   
+──────────────────────────────────────────────
+```
+
+
+
+---
+
+### ⚙️ REMINDER
+```
+[ EXEC LOG ]
+──────────────────────────────────────────────
 $ ./start.sh
 > Finding the errors... OK
 > 0 error found... OK
 > Remember that you're chopped... SYBAU
+──────────────────────────────────────────────
+```
 
+
+---
+
+> 🧩 **** —  
+> _“The one who's fuck me is my code.”_
