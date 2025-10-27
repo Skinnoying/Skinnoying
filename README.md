@@ -74,5 +74,5 @@ $ ./start.sh
 
 ---
 
-> 🧩 **** —  
+> 🧩 **Quote** —  
 > _“The one who's fuck me is my code.”_
